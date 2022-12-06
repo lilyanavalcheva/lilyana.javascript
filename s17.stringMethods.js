@@ -11,4 +11,6 @@ story.length
 console.log(story.length)
 
 story.split(" ").length
-console.log(story.split(" ").length)
+console.log(story.split(" ").length) 
+
+hi
