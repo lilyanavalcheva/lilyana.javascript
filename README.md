@@ -5,5 +5,3 @@ Learning branches
 1,2,3
 
 Bye
-
-check conflicts
